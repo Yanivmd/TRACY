@@ -24,19 +24,19 @@ To create gmls from elf or exe files use the 'extractFunctions.py' with IDA pro 
 
 what does each file do?
 -----------------------
-GetStats.py - generate stats for your db of samples
-GraphletRewritter.py - what the name say
-GraphletsCompareMyNG.py	- this file contains the functions needed to compare 2 code blocks
-GraphletsConstraintsNG.py	- the wrapper for the constraint solver
-IgraphHelper.py	- helper functions for dealing with gmls
-SortedCollection.py	- helper class for printing csvs
-colorGraphs.py - this implements the other method we compared our method with, graphlets
-combinatorics.py	Last CLI enabled version.	2 months ago
-extractFunctions.py	Last CLI enabled version.	2 months ago
-findClonesCONS.py	- the main file (see previous explanation)
-myutils.py	Last CLI enabled version.	2 months ago
-ngrams.py - this implements the other method we compared our method with, n-grams
-split2k.py - creates tracelets
-x86Analyzer.py - analyse code for compare and dataflow analysis
+GetStats.py - generate stats for your db of samples <br>
+GraphletRewritter.py - what the name say  <br>
+GraphletsCompareMyNG.py	- this file contains the functions needed to compare 2 code blocks <br>
+GraphletsConstraintsNG.py	- the wrapper for the constraint solver <br>
+IgraphHelper.py	- helper functions for dealing with gmls <br>
+SortedCollection.py	- helper class for printing csvs <br>
+colorGraphs.py - this implements the other method we compared our method with, graphlets <br>
+combinatorics.py	Last CLI enabled version.<br>
+extractFunctions.py	Last CLI enabled version. <br>
+findClonesCONS.py	- the main file (see previous explanation) <br>
+myutils.py -	multiple helper functions	 <br>
+ngrams.py - this implements the other method we compared our method with, n-grams  <br>
+split2k.py - creates tracelets <br>
+x86Analyzer.py - analyse code for compare and dataflow analysis <br>
 
 
