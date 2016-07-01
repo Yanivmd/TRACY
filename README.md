@@ -6,7 +6,9 @@ TRACY is a search engine for binary functions, implemented in Python.
 Given a query, a function in binary form (as a part of an executable),
 TRACY searches other executables, and produces a similarity score between the search target and the query.
 
-A full explenation about TRACY can be found in my paper, found here - https://www.cs.technion.ac.il/~yanivd/
+A full explenation about TRACY can be found in our paper, found here - https://www.cs.technion.ac.il/~yanivd/
+
+** NEW ** - If you found this interesting, check our latest work @ http://www.binsim.com
 
 
 Running the code
